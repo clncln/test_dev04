@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f7226cc-5b68-4d58-9640-7a45bbd8a699" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/itest_platform/templates/manage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itest_platform/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/itest_platform/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itest_platform/itest_platform/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/itest_platform/itest_platform/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itest_platform/project_manage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/itest_platform/project_manage/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +16,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itest_platform/project_manage/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="642">
+              <caret line="65" column="64" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itest_platform/itest_platform/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding>
+                <element signature="e#638#670#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itest_platform/templates/manage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +59,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test_dev04/settings.py" />
+        <option value="$PROJECT_DIR$/itest_platform/templates/manage.html" />
+        <option value="$PROJECT_DIR$/itest_platform/itest_platform/urls.py" />
+        <option value="$PROJECT_DIR$/itest_platform/project_manage/views.py" />
       </list>
     </option>
   </component>
@@ -34,9 +75,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="92" />
-    <option name="y" value="49" />
-    <option name="width" value="991" />
+    <option name="x" value="-36" />
+    <option name="y" value="54" />
+    <option name="width" value="1820" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,6 +98,24 @@
               <item name="test_dev04" type="462c0819:PsiDirectoryNode" />
               <item name="itest_platform" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="test_dev04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_dev04" type="462c0819:PsiDirectoryNode" />
+              <item name="itest_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="itest_platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_dev04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_dev04" type="462c0819:PsiDirectoryNode" />
+              <item name="itest_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="project_manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_dev04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_dev04" type="462c0819:PsiDirectoryNode" />
+              <item name="itest_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -69,6 +128,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,25 +181,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="49" width="991" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-36" y="54" width="1820" height="1047" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20615384" />
-      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14190687" />
+      <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -155,53 +214,56 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/itest_platform/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itest_platform/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_dev04/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itest_platform/models.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itest_platform/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itest_platform/models.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itest_platform/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/itest_platform/models.py" />
+    <entry file="file://$PROJECT_DIR$/itest_platform/views.py" />
+    <entry file="file://$PROJECT_DIR$/test_dev04/settings.py" />
+    <entry file="file://$PROJECT_DIR$/itest_platform/models.py" />
+    <entry file="file://$PROJECT_DIR$/itest_platform/views.py" />
+    <entry file="file://$PROJECT_DIR$/itest_platform/models.py" />
+    <entry file="file://$PROJECT_DIR$/itest_platform/views.py" />
     <entry file="file://$PROJECT_DIR$/test_dev04/urls.py" />
     <entry file="file://$PROJECT_DIR$/itest_platform/apps.py" />
     <entry file="file://$PROJECT_DIR$/test_dev04/urls.py" />
-    <entry file="file://$PROJECT_DIR$/itest_platform/models.py">
+    <entry file="file://$PROJECT_DIR$/itest_platform/models.py" />
+    <entry file="file://$PROJECT_DIR$/itest_platform/views.py" />
+    <entry file="file://$PROJECT_DIR$/test_dev04/settings.py" />
+    <entry file="file://$PROJECT_DIR$/itest_platform/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="425">
+          <caret line="17" column="7" lean-forward="true" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itest_platform/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_dev04/settings.py">
+    <entry file="file://$PROJECT_DIR$/itest_platform/templates/manage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itest_platform/itest_platform/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#638#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itest_platform/project_manage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="65" column="64" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
